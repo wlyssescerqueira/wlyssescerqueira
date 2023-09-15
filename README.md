@@ -37,8 +37,8 @@ Em meu atual emprego, tive a honra de ser convidado a trabalhar com Salesforce, 
     <td align='center' width="300">
          <img align="center" alt="Sales" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
     </td>
-    <td align='center' width="300">
-        <img align="center" alt="Protheus" src=""/>
+    <td align='center' width="300" >
+        <img align="center" alt="Protheus" src="https://www.totvs.com/wp-content/uploads/2019/09/logo.png"/>
     </td>
     <td align='center' width="300">
         <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
