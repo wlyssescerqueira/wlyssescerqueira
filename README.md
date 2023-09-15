@@ -15,7 +15,18 @@
 
 🎓Sistemas de Informação.<br>
 💼 Salesforce Developer | Protheus Developer <br>
-❤️ Apaixonado por tecnologia.<br>
+❤️ Apaixonado por tecnologia.<br><br>
+
+About me: <br><br>
+Profissional de Tecnologia da Informação com ampla experiência no sistema ERP Protheus, CRM Salesforce e nas tecnologias, .NET, Node.js e Angular.
+
+Minha trajetória na área de desenvolvimento de software teve início em 2008, quando ingressei de estagiário para auxiliar de escritório na minha primeira oportunidade de trabalho, em uma empresa do ramo do agronegócio. Nesse ambiente, percebi uma oportunidade de aprimorar um processo específico da empresa: o controle do saldo de armazenagem de café e cacau para produtores rurais, que até então era feito manualmente em planilhas Excel. Decidi, então, enfrentar o desafio de desenvolver uma solução para otimizar esse processo, escolhendo a linguagem C# em conjunto com o banco de dados MS-SQL e Crystal Reports, tecnologias de ponta naquela época. Após a implantação e utilização pelos colaboradores, o sistema mostrou-se extremamente eficiente, sendo posteriormente adotado com sucesso em outra filial da empresa.
+
+Em 2010, já no terceiro ano da faculdade, dei mais um passo em minha jornada profissional ao realizar meu primeiro trabalho freelancer remunerado. Fui contratado por uma empresa de mediação e arbitragem para desenvolver um sistema de controle de agendamento e financeiro. Essa experiência consolidou minha decisão de seguir na carreira de desenvolvimento de software, pois pude ver o impacto positivo que minhas soluções tecnológicas trouxeram para os clientes e para os negócios.
+
+Essa experiência revelou minha paixão pelo mundo da tecnologia e do desenvolvimento de software, impulsionando-me a seguir uma carreira nessa área em constante evolução. Desde então, direcionei meus esforços para me especializar no desenvolvimento de sistemas ERP, com destaque para o ERP Protheus da TOTVS, e também em tecnologias como .NET, Node.js e Angular.
+
+Em meu atual emprego, tive a honra de ser convidado a trabalhar com Salesforce, um dos sistemas mais renomados de gestão de relacionamento com clientes. Inicialmente, encarar o desafio de aprender essa plataforma foi uma experiência estimulante e gratificante. Com determinação e dedicação, mergulhei de cabeça no processo de capacitação, buscando dominar todas as funcionalidades e recursos do CRM.
 <br><br>
 
 ## Skills
