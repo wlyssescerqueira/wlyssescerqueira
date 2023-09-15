@@ -14,9 +14,7 @@
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p
 
-🎓Sistemas de Informação.<br>
-💼 Salesforce Developer | Protheus Developer <br>
-❤️ Apaixonado por tecnologia.<br><br>
+<br><br>
 
 About me: <br><br>
 Profissional de Tecnologia da Informação com ampla experiência no sistema ERP Protheus, CRM Salesforce e nas tecnologias, .NET, Node.js e Angular.
