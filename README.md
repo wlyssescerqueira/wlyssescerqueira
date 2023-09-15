@@ -61,10 +61,12 @@
 <div>
 <a href="https://github.com/wlyssescerqueira">
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wlyssescerqueira&show_icons=true&count_private=true&hide_border=true&title_color=228B22&icon_color=228B22&text_color=F8F8FF&bg_color=000000" alt="vitorcerqueira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlyssescerqueira&layout=compact&hide_border=true&title_color=228B22&text_color=F8F8FF&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wlyssescerqueira&show_icons=true&count_private=true&hide_border=true&title_color=48D1CC&icon_color=48D1CC&text_color=48D1CC&bg_color=000000" alt="vitorcerqueira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlyssescerqueira&layout=compact&hide_border=true&title_color=48D1CC&text_color=48D1CC&bg_color=000000" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlyssescerqueira&bg_color=080808&color=0c6b00&line=007508&point=37e13a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph](https://github.com/wlyssescerqueira))
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlyssescerqueira&bg_color=000000&color=48d1cc&line=48d1cc&point=48ccd1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph]
+(https://github.com/wlyssescerqueira))
 
 ![Snake animation](https://github.com/wlyssescerqueira/wlyssescerqueira/blob/output/github-contribution-grid-snake.svg)
 
