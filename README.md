@@ -27,10 +27,6 @@ Essa experiência revelou minha paixão pelo mundo da tecnologia e do desenvolvi
 
 Em meu atual emprego, tive a honra de ser convidado a trabalhar com Salesforce, um dos sistemas mais renomados de gestão de relacionamento com clientes. Inicialmente, encarar o desafio de aprender essa plataforma foi uma experiência estimulante e gratificante. Com determinação e dedicação, mergulhei de cabeça no processo de capacitação, buscando dominar todas as funcionalidades e recursos do CRM.
 
-
-xablau
-
-
 <br><br>
 
 ## Skills
