@@ -26,6 +26,11 @@ Em 2010, já no terceiro ano da faculdade, dei mais um passo em minha jornada pr
 Essa experiência revelou minha paixão pelo mundo da tecnologia e do desenvolvimento de software, impulsionando-me a seguir uma carreira nessa área em constante evolução. Desde então, direcionei meus esforços para me especializar no desenvolvimento de sistemas ERP, com destaque para o ERP Protheus da TOTVS, e também em tecnologias como .NET, Node.js e Angular.
 
 Em meu atual emprego, tive a honra de ser convidado a trabalhar com Salesforce, um dos sistemas mais renomados de gestão de relacionamento com clientes. Inicialmente, encarar o desafio de aprender essa plataforma foi uma experiência estimulante e gratificante. Com determinação e dedicação, mergulhei de cabeça no processo de capacitação, buscando dominar todas as funcionalidades e recursos do CRM.
+
+
+xablau
+
+
 <br><br>
 
 ## Skills
