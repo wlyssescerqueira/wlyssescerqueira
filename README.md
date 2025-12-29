@@ -4,8 +4,8 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wlysses-cerqueira-352a8b41/)
-[![wlytech](https://img.shields.io/website?label=wlytech.com.br&style=for-the-badge&url=https://wlytech.com.br/)](https://wlytech.com.br/)
-[![wlytech](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wlytech.com.br/)
+[![wlytech](https://img.shields.io/website?label=wlysses.dev.br&style=for-the-badge&url=https://wlysses.dev.br/)](https://wlysses.dev.br/)
+[![wlytech](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wlysses.dev.br/)
 <a href = "mailto:wlysses@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
